@@ -6,6 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I think CS is coole
 
+Update: I feel like a fraud. Am I?
+
 <!---
 SimonaAmparoLRoda/SimonaAmparoLRoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
